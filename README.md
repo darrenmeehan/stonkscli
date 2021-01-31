@@ -11,9 +11,11 @@ This is a side project to enable a group of friends to learn more about programm
 ```commandline
 $ git clone https://github.com/Darrenmeehan/stonkscli
 
-$ pipenv sync
+$ pipenv sync --dev
 
-$python3 stonkscli.py
+$ cat GME > stocks.csv # Add your own stocks to this file
+
+$ python3 stonkscli.py
 ```
 
 ## Contributions
