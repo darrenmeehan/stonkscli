@@ -9,9 +9,11 @@ This is a side project to enable a group of friends to learn more about programm
 ## Usage
 
 ```commandline
-git clone https://
+$ git clone https://github.com/Darrenmeehan/stonkscli
 
-python3 stonkscli.py
+$ pipenv sync
+
+$python3 stonkscli.py
 ```
 
 ## Contributions
