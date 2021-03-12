@@ -13,7 +13,7 @@ $ git clone https://github.com/Darrenmeehan/stonkscli
 
 $ pipenv sync --dev
 
-$ cat GME > stocks.csv # Add your own stocks to this file
+$ echo GME > stocks.csv # Add your own stocks to this file
 
 $ python3 stonkscli.py
 ```
